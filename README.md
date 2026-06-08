@@ -44,6 +44,12 @@ Stronę sprawdziłem na Chrome i Safari. Produkt działa na rynku USA, gdzie z S
 </tr>
 </table>
 
+## About us
+
+**1. Znaczniki (checki).** Niektóre znaczniki tracą okrągły kształt, gdy wiersz ma pełną długość. Rozwiązanie: ustawić stałą szerokość (`fixed width`).
+
+![Zniekształcone znaczniki](https://github.com/dlipinski/automotivemastermind-frontend-bugs/blob/main/About%20us/History%20checks.png?raw=true)
+
 ## Blog post
 
 **1. Zdjęcia.** Dodatkowy whitespace wokół zdjęć i brak możliwości kliknięcia w nie. Rozwiązanie do opracowania, ale proste.
@@ -95,6 +101,12 @@ I tested the site on Chrome and Safari. The product runs in the US market, where
 <td><img src="https://github.com/dlipinski/automotivemastermind-frontend-bugs/blob/main/Dealer%20case%20studies/Tab-2.png?raw=true" width="100%"></td>
 </tr>
 </table>
+
+## About us
+
+**1. Checkmarks.** Some checkmarks lose their round shape when the row spans the full width. Fix: set a fixed width.
+
+![Misshapen checkmarks](https://github.com/dlipinski/automotivemastermind-frontend-bugs/blob/main/About%20us/History%20checks.png?raw=true)
 
 ## Blog post
 
