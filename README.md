@@ -1,6 +1,6 @@
-# automotivemastermind.com - kosmetyczne bugi
+*English version below ([jump to it](#automotivemastermindcom---cosmetic-bugs)).*
 
-*English version below ([przejdź do niej](#frontend-bugs--automotivemastermind)).*
+# automotivemastermind.com - kosmetyczne bugi
 
 Stronę sprawdziłem na Chrome i Safari. Produkt działa na rynku USA, gdzie z Safari pochodzi 54% ruchu mobilnego i 30% desktopowego, więc zachowanie w tej przeglądarce ma tu realne znaczenie.
 
@@ -52,7 +52,7 @@ Stronę sprawdziłem na Chrome i Safari. Produkt działa na rynku USA, gdzie z S
 
 ---
 
-# Frontend bugs – automotiveMastermind
+# automotivemastermind.com - cosmetic bugs
 
 I tested the site on Chrome and Safari. The product runs in the US market, where Safari accounts for 54% of mobile and 30% of desktop traffic, so how it behaves there actually matters.
 
