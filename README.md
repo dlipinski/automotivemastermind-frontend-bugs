@@ -1,7 +1,5 @@
 # Bugi frontendowe – automotiveMastermind
 
-Żeby wyróżnić się wśród kandydatów, przejrzałem frontend produktu pod kątem błędów, udokumentowałem je i tam, gdzie poprawka jest prosta, zaproponowałem rozwiązanie.
-
 Stronę sprawdziłem na Chrome i Safari. Produkt działa na rynku USA, gdzie z Safari pochodzi 54% ruchu mobilnego i 30% desktopowego, więc zachowanie w tej przeglądarce ma tu realne znaczenie.
 
 ## Landing page
